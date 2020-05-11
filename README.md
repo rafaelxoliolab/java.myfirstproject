@@ -1,4 +1,4 @@
-# How to create first Java project with Eclipse IDE
+# How to create your first Java project with Eclipse IDE
 Simple example of how to start programing with Java using the Eclipse IDE
 
 ## Definition
