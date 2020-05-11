@@ -5,10 +5,8 @@ Simple example of how to start programing with Java using the Eclipse IDE
 First JAVA project created with the Eclipse IDE
 
 ## Pre-requisites
-<dl>
-  <dt>Java SE Installed</dt>
-  <dt>Eclipse IDE Installed</dt>
-</dl>
+- Java SE Installed
+- Eclipse IDE Installed
 
 ## Java Installation (Windows)
 - Download Java SE from https://www.oracle.com/java/technologies/javase-downloads.html
