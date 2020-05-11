@@ -7,7 +7,7 @@ First JAVA project created with the Eclipse IDE
 ### Pre-requisites
 <dl>
   <dt>Have Java Installed</dt>
-  <dd>If you have not Java installed, you can [Download from here]<https://www.oracle.com/java/technologies/javase-downloads.html></dd>
+  <dd>If you have not Java installed, you can download from https://www.oracle.com/java/technologies/javase-downloads.html</dd>
   <dt>Have Eclipse IDE Installed</dt>
-  <dd>If you have not Eclipse IDE installed, you can [download from here](https://www.eclipse.org/downloads/ "Eclipse Download")</dd>
+  <dd>If you have not Eclipse IDE installed, you can download from https://www.eclipse.org/downloads/</dd>
 </dl>
